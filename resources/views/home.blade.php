@@ -68,8 +68,8 @@
         <div class="flex-center position-ref full-height">
             <div class="content">
                 <h1>Rendse.net</h1>
-                <i class="fa fa-screwdriver"></i>
-                Under construction
+                <i class="fa fa-5x fa-coffee"></i>
+                <h3>Under construction</h3>
             </div>
         </div>
     </body>
